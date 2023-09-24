@@ -15,15 +15,20 @@ Here are the key functionalities of the Project Management System:
 This project allowed me to apply and enhance my skills in Java Spring Boot, Spring Security, JPA, and JavaScript during my time at [CNS](https://site.cnsbd.com/index.html). It exhibits my ability to develop effective and user-friendly online applications.
 
 **Registration Page:**
+
 ![Registration ](https://github.com/tamjid12/Project-Management-System/assets/90531515/cdf58c83-5ab1-4c37-872e-0db53eb07840)
 **Login Page:**
+
 ![Login Page](https://github.com/tamjid12/Project-Management-System/assets/90531515/ed2a3443-3921-40db-ac37-aa5069dbd71c) 
 **Home Page:**
+
 ![Home Page](https://github.com/tamjid12/Project-Management-System/assets/90531515/cfe971a5-8d55-421e-bcb4-33ffa92b4eb6)
 
 **Add or Update Project Page:**
+
 ![Add Project](https://github.com/tamjid12/Project-Management-System/assets/90531515/975b9115-ac0d-4f96-8325-6a365c37e3a3)
 
 **Api Page:**
+
 ![rest api](https://github.com/tamjid12/Project-Management-System/assets/90531515/dcd9c668-6610-448f-b034-b082c30e564a)
 
