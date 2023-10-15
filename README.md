@@ -26,7 +26,7 @@ This project allowed me to apply and enhance my skills in Java Spring Boot, Spri
 **Add or Update Project Page:**
 
 ![Add Project](https://github.com/tamjid12/Project-Management-System/assets/90531515/d9daceac-ace1-49df-9b69-e77fba73fd20)
-**Api Page:**
+**API Page:**
 
 ![rest api](https://github.com/tamjid12/Project-Management-System/assets/90531515/ffdd2983-489d-429f-bab9-45c2e7d2e390)
 
